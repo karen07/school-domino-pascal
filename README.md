@@ -1,4 +1,4 @@
-# school-domino-pascal
+# School domino pascal
 One of my first big programs, in Pascal.
 ```console
 karen@Home:~/pascal$ fpc domino.pas
