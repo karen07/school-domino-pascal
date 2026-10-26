@@ -1,14 +1,12 @@
 # School domino Pascal
 
-This repository contains one of my early larger programs, written in Pascal as a school project.
-
-The program implements a console domino game and renders domino tiles with simple ASCII graphics. The source is preserved mostly as a historical snapshot of an early programming project rather than as a modern game implementation.
-
-It has no external dependencies beyond a Pascal compiler and can still be built with Free Pascal on a current Linux system.
+An early Pascal programming project implementing a console domino game. The repository
+preserves the original program as a historical school project.
 
 ## Описание
 
-Этот репозиторий содержит одну из моих ранних достаточно крупных программ, написанную на Pascal как школьный проект.
+Одна из ранних учебных программ автора на Pascal - консольная игра в домино, сохранённая в
+репозитории как школьный проект.
 
 Программа реализует консольную игру в домино и рисует костяшки простой ASCII графикой. Исходники сохранены в основном как исторический снимок раннего программного проекта, а не как современная реализация игры.
 
